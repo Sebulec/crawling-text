@@ -1,4 +1,3 @@
----
 
 # VisionOS Star Wars Text Crawl Sample App
 

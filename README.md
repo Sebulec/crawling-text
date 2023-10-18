@@ -1,5 +1,3 @@
-Certainly! Here's a sample README for a GitHub repository that contains a sample app demonstrating how to create a crawling text effect like in Star Wars using VisionKit and RealityKit.
-
 ---
 
 # VisionOS Star Wars Text Crawl Sample App

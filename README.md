@@ -50,7 +50,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - Inspiration for this project comes from the iconic Star Wars opening crawl.
-- [RealityKit](https://developer.apple.com/documentation/realitykit) and [VisionOS](https://developer.apple.com/documentation/vision/vision_kit) provided the tools for creating this visual effect.
+- [RealityKit](https://developer.apple.com/documentation/realitykit) and [visionOS](https://developer.apple.com/documentation/visionos) provided the tools for creating this visual effect.
 
 ## Contributing
 

@@ -1,7 +1,7 @@
 
 # VisionOS Star Wars Text Crawl Sample App
 
-![Simulator Screenshot - Apple Vision Pro - 2023-10-18 at 21 45 27](https://github.com/Sebulec/crawling-text/assets/11884019/a4d7aabb-6b0c-4314-9a4e-c624605f28df)
+![part4](https://github.com/Sebulec/crawling-text/assets/11884019/ecd4855c-2a78-44a7-a520-05d81d89d6f6)
 
 
 This repository contains a sample app that demonstrates how to create a Star Wars-style crawling text effect in VisionOS using RealityKit. The app showcases the use of 3D text, animation, and camera manipulation to achieve this iconic movie opening sequence effect.
